@@ -1,0 +1,27 @@
+{
+  "name": "react-stickycomponent",
+  "version": "1.0.0",
+  "description": "React Sticky Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/react-stickycomponent.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "sticky",
+    "position",
+    "position:sticky",
+    "polyfill"
+  ],
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/react-stickycomponent/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/react-stickycomponent#readme"
+}
