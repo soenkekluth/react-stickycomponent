@@ -1,6 +1,6 @@
 {
   "name": "react-stickycomponent",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React Sticky Component",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/soenkekluth/react-stickycomponent/issues"
   },
-  "homepage": "https://github.com/soenkekluth/react-stickycomponent#readme"
+  "homepage": "https://github.com/soenkekluth/react-stickycomponent#readme",
+  "dependencies": {
+    "react-sticky-state": "^1.1.0"
+  }
 }
