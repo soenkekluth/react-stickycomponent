@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/soenkekluth/react-stickycomponent#readme",
   "dependencies": {
-    "react-sticky-state": "^1.1.0"
+    "react-sticky-state": "^2.1.6"
   }
 }
